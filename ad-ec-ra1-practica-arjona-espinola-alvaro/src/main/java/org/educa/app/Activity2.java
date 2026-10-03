@@ -8,7 +8,7 @@ import java.io.IOException;
 public class Activity2 {
 
     private static final String PATH_TXT = "src/main/resources/export/";
-    private static final String FILE_XML = "src/main/resources/xml/flota_junio2025.xml";
+    private static final String FILE_XML = "src/main/resources/xml/inventario_junio2026.xml";
 
     public static void main(String[] args) {
         ProductoService productoService = new ProductoService();
